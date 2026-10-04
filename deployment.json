@@ -1,0 +1,10 @@
+{
+  "account": "liwaw008-svg",
+  "network": "StudioNet",
+  "contractAddress": "0xea84eB31d7d066731e2A9FaaaCB3f34Fca0be74a",
+  "deploymentTransaction": "0x7529015c85fb2d3233debd07210637c533d29995870c25676ada513ab42591b7",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "31121e994267f878a03753f7128c03a8246923522c85bda5f7df7a1976fb9d23",
+  "repository": "https://github.com/liwaw008-svg/lexicon-turnstile"
+}

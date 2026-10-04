@@ -1,0 +1,28 @@
+{
+  "registryId": "OPS-1791127237",
+  "canonicalTermId": "RECOVERY-1791127237",
+  "aliasTermId": "RESTORE-1791127237",
+  "transactions": {
+    "registry": "0xa0c2edac994daae7cc3e8032f75e05bf7e10e167135d4c19ba0a9f1b6c8e6c25",
+    "first_proposal": "0xe4186060ecbf065bceb568b1989c65fed54ba848a570ae0f9c63fa026f795677",
+    "first_review": "0xbb20d152baf58f13798e201daa6c5df4eab7235ae73871872a7bec863702ca18",
+    "alias_proposal": "0x3e7550731ef12a111d25dfe172d3f6f9acab03f27a4a3c53f57abc6afe63cf01",
+    "alias_review": "0x0ddbb8100132824e0da2862ec581dc05280bb19089fc2a37246abbe632774d38"
+  },
+  "state": {
+    "charter_digest": "328e0a9840c911609f9b154c362c704aa0840077907e46727170cc083be3c80c",
+    "deadline": 1791128265,
+    "definition_digest": "8301f6446ee137c118390652898e90d0871a28936aa4a49233d710faf0e87eed",
+    "definition_url": "https://raw.githack.com/liwaw008-svg/lexicon-turnstile/7641b760f461a5e042bfc9c9a57524ba8843aee5/evidence/restoration-interval.md",
+    "id": "RESTORE-1791127237",
+    "label": "Restoration interval",
+    "matched_digest": "0b963de0eebe6c80cd77c20c5d5f153238a70955e99f14a7ac17139555d3e713",
+    "matched_term_id": "RECOVERY-1791127237",
+    "proposer": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "registry_id": "OPS-1791127237",
+    "relation": "ALIAS",
+    "revision": 0,
+    "state": "ALIAS"
+  },
+  "walletDisclosure": "All demo wallets and source fixtures are operator-controlled."
+}

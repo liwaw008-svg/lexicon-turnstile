@@ -1,0 +1,7 @@
+{
+  "guard": "replay or unauthorized review is rejected",
+  "transaction": "0x33c2bc7dcdba4c9fb7aab2873e032db8f9483e3a10fc03af6d5990b2e5b201ca",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "ERROR",
+  "expectedMarker": "[EXPECTED]"
+}
